@@ -1,4 +1,4 @@
 # CECS
 my simple ECS that I use with raylib for my projects
 
-only works on windows sorry bout that
+sorry no linux build but just modify the makefile command with cc instead of gcc and it should build
